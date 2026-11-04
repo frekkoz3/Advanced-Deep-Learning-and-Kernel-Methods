@@ -1,0 +1,15 @@
+# Copyright (c) 2025 Fabio Anselmi
+# Copyright (c) 2025 AILab @ UniTS
+# All rights reserved.
+# Released under the terms of the MIT License
+
+# Requirements in sync with Google Colab (12/09/2025)
+
+torch>=2.8
+torchvision>=0.23
+numpy>=2.0.2
+scipy>=1.16.1
+scikit-learn>=1.6.1
+matplotlib>=3.10
+tqdm>=4.67.1
+icecream>=2.1.7
